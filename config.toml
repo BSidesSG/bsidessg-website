@@ -31,7 +31,7 @@ hostname = "bsidessg.org"
   [params.author]
     name = "BSides Singapore"  # Website and RSS feed author
     email = "bsidessgteam@gmail.com"  # RSS feed email address
-    avatar = "/bsidessg.png"
+    avatar = "/bsidessg-website/bsidessg.png"
 
 
 readingTime = true  # Show reading time on post page
