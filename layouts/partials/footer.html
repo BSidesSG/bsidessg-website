@@ -3,7 +3,7 @@
         <span>{{ . | safeHTML }}</span>
     {{ else }}
         <span>
-            © {{ now.Format "2006" }} {{ .Site.Params.author.name }}
+            © {{ now.Format "2006" }} {{ .Site.Params.author.name }}, built with Hugo and Nightfall theme
         </span>
     {{ end }}
 </footer>
