@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>bsidessgteam@gmail.com (BSides Singapore)</managingEditor>
+    <webMaster>bsidessgteam@gmail.com (BSides Singapore)</webMaster>
+    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Organizers</title>
+      <link>http://localhost:1313/call-for-organizers/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate><author>bsidessgteam@gmail.com (BSides Singapore)</author>
+      <guid>http://localhost:1313/call-for-organizers/</guid>
+      <description>&lt;p&gt;BSides Singapore has always been a &lt;strong&gt;community-driven, content-focused&lt;/strong&gt; conference, bringing together passionate individuals in the information security space to share knowledge, exchange ideas, and build lasting connections. Our mission is to &lt;strong&gt;keep the event affordable and accessible&lt;/strong&gt; to everyone while ensuring high-quality, engaging content for all attendees.&lt;/p&gt;&#xA;&lt;p&gt;As we continue this journey, &lt;strong&gt;we are looking for new organizers&lt;/strong&gt; from the community who are willing to step up, take the lead, and help to design and execute the next edition of BSides Singapore.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://localhost:1313/coc/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate><author>bsidessgteam@gmail.com (BSides Singapore)</author>
+      <guid>http://localhost:1313/coc/</guid>
+      <description>&lt;p&gt;BSides Singapore has absolutely ZERO tolerance for physical, verbal and sexual harassment of any kind.&lt;/p&gt;&#xA;&lt;p&gt;Our goal is to provide a harassment-free conference experience for everyone regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), education or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organisers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BSides Singapore Conference 2024</title>
+      <link>http://localhost:1313/archive/bsidessg2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate><author>bsidessgteam@gmail.com (BSides Singapore)</author>
+      <guid>http://localhost:1313/archive/bsidessg2024/</guid>
+      <description>&lt;p&gt;With the community fully reunited, BSides Singapore 2024 delivered an even bigger and bolder experience—more speakers, deeper discussions, and stronger connections in the heart of cybersecurity. BSides Singapore Conference 2024 was held on 20th September with an exciting group of over 200 participants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BSides Singapore Conference 2023</title>
+      <link>http://localhost:1313/archive/bsidessg2023/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate><author>bsidessgteam@gmail.com (BSides Singapore)</author>
+      <guid>http://localhost:1313/archive/bsidessg2023/</guid>
+      <description>&lt;p&gt;After three years of virtual events, BSides Singapore finally returned to a physical format, bringing back the energy of in-person discussions, hands-on sessions, and real-world networking. BSides Singapore Conference 2023 was held on 22nd of September.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BSides Singapore Conference 2022</title>
+      <link>http://localhost:1313/archive/bsidessg2022/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><author>bsidessgteam@gmail.com (BSides Singapore)</author>
+      <guid>http://localhost:1313/archive/bsidessg2022/</guid>
+      <description>&lt;p&gt;Another year apart, but the learning never stopped our virtual edition brought together security professionals worldwide to share knowledge, ideas, and innovations. BSides Singapore Conference 2022 contiuned to run virtually on 22-23 September.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BSides Singapore Conference 2021</title>
+      <link>http://localhost:1313/archive/bsidessg2021/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><author>bsidessgteam@gmail.com (BSides Singapore)</author>
+      <guid>http://localhost:1313/archive/bsidessg2021/</guid>
+      <description>&lt;p&gt;With the cyber world evolving faster than ever, BSides Singapore continued virtually, delivering deep technical insights and discussions, keeping the hacker spirit alive online. BSides Singapore Conference 2021 was held virtually on 23-24 September.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BSides Singapore Conference 2020</title>
+      <link>http://localhost:1313/archive/bsidessg2020/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate><author>bsidessgteam@gmail.com (BSides Singapore)</author>
+      <guid>http://localhost:1313/archive/bsidessg2020/</guid>
+      <description>&lt;p&gt;As the world shut down due to COVID-19, we adapted by going fully virtual, ensuring the community stayed connected, engaged, and secure from the safety of their homes. BSides Singapore Conference 2020 was held virtually on 24-25 September with an overwhelming participation from every part of the world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BSides Singapore Conference 2019</title>
+      <link>http://localhost:1313/archive/bsidessg2019/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate><author>bsidessgteam@gmail.com (BSides Singapore)</author>
+      <guid>http://localhost:1313/archive/bsidessg2019/</guid>
+      <description>&lt;p&gt;BSides Singapore launched with a bang, bringing together over 200 cybersecurity enthusiasts for an electrifying debut filled with insightful talks and networking. The first conference of BSides Singapore Conference 2020 was held on 24 September.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><author>bsidessgteam@gmail.com (BSides Singapore)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Security BSides is a global network of independent information security conferences and events that are connected through their common goal of promoting a more accessible, community-driven, content-driven and inclusive approach to information security and privacy education. Since the first Security BSides event held in Las Vegas in 2009, Security BSides has grown to provide a global support network and tools that have allowed organizers around the world to hold hundreds of information security conferences in hundreds of cities. BSides Singapore conference is organized by a non-profit organization (BSidesSG Pte. Ltd.) created for this same purpose and with the support and involvement of securitybsides.org.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

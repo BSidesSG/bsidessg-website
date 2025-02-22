@@ -1,0 +1,83 @@
+baseURL = 'http://bsidessg.org'
+languageCode = 'en-us'
+theme = "nightfall"
+
+[module]
+  [module.hugoVersion]
+    min = "0.114.0"
+
+[menu]
+  [[menu.header]]
+    name = "archive"
+    weight = 0
+    url = "archive"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+  [[menu.header]]
+    name = "Call-for-Organizers"
+    weight = 2
+    url = "call-for-organizers"
+  [[menu.header]]
+    name = "COC"
+    weight = 3
+    url = "coc"
+
+
+[params]
+user = "BSides Singapore"
+hostname = "bsidessg.org"
+  [params.author]
+    name = "BSides Singapore"  # Website and RSS feed author
+    email = "bsidessgteam@gmail.com"  # RSS feed email address
+    avatar = "/bsidessg.png"
+
+
+readingTime = true  # Show reading time on post page
+published = false  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "facebook"
+url = "https://www.facebook.com/BSidesSG/"
+target = "_blank"
+aria = "Facebook Profile"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://twitter.com/BSidesSG"
+aria = "Twitter Profile"
+
+[[params.social]]
+key = 2
+name = "instagram"
+url = "https://www.instagram.com/bsidessg/"
+aria = "Instagram Profile"
+
+[[params.social]]
+key = 3
+name = "linkedin"
+url = "https://www.linkedin.com/company/bsidessg/"
+aria = "LinkedIn Profile"
+
+[[params.social]]
+key = 4
+name = "github"
+url = "https://github.com/bsidessg"
+target = "_blank"
+aria = "GitHub Profile"
+
+[[params.social]]
+key = 5
+name = "flicker"
+url = "https://www.flickr.com/photos/192306857@N04/albums"
+target = "_blank"
+aria = "Flicker Profile"
+
+[[params.social]]
+key = 6
+name = "email"
+url = "mailto:bsidessgteam@gmail.com"
+aria = "E-Mail Address"
