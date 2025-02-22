@@ -11,14 +11,13 @@ Security BSides is a global network of independent information security conferen
 Singapore is so much more than the sum of its world-famous numerous attractions. Capitalizing on its melting pot of cultures, this small island is constantly evolving, reinventing, and re-imagining with the people who are passionate about creating new possibilities. At BSides Singapore, together we create opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. BSides Singapore is a community-driven conference focused on deep, technical understanding of topics related to information security. It is where conversations for the next-big-thing are happening.
 
 
-### Organizing Team
+### Organizers
 
 * Sanoop Thomas
 * Zhi hao Goh
 * Samandeep Singh
 * Amarjit Sonik
 * Mohammad Shah
-
 
 ### Moderators 
 

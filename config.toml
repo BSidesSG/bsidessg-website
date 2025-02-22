@@ -1,4 +1,4 @@
-baseURL = 'https://bsidessg.github.io/bsidessg-website/'
+baseURL = 'https://bsidessg.github.io/'
 languageCode = 'en-us'
 theme = "nightfall"
 
@@ -31,7 +31,7 @@ hostname = "bsidessg.org"
   [params.author]
     name = "BSides Singapore"  # Website and RSS feed author
     email = "bsidessgteam@gmail.com"  # RSS feed email address
-    avatar = "/bsidessg-website/bsidessg.png"
+    avatar = "/bsidessg.png"
 
 
 readingTime = true  # Show reading time on post page
