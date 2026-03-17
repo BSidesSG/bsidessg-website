@@ -6,6 +6,8 @@ aliases = ["about-us", "about-bsidessg", "contact"]
 author = "BSides Singapore Team"
 +++
 
+#### <span style="color:red">Update: Call for Organizers is closed.</span>
+
 BSides Singapore has always been a **community-driven, content-focused** conference, bringing together passionate individuals in the information security space to share knowledge, exchange ideas, and build lasting connections. Our mission is to **keep the event affordable and accessible** to everyone while ensuring high-quality, engaging content for all attendees.
 
 As we continue this journey, **we are looking for new organizers** from the community who are willing to step up, take the lead, and help to design and execute the next edition of BSides Singapore.

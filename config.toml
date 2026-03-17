@@ -81,3 +81,9 @@ key = 6
 name = "email"
 url = "mailto:bsidessgteam@gmail.com"
 aria = "E-Mail Address"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
