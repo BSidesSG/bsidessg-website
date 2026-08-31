@@ -1,0 +1,164 @@
+theme: event
+
+defaultContentLanguage: en
+languages:
+    _merge: deep
+    en:
+        disabled: false
+        menus:
+            main:
+                - identifier: about
+                  pageRef: /about
+                  weight: 10
+                - identifier: sessions
+                  pageRef: /sessions
+                  weight: 20
+                - identifier: speakers
+                  pageRef: /speakers
+                  weight: 30
+                - identifier: location
+                  pageRef: /location
+                  weight: 40
+                - identifier: sponsors
+                  pageRef: /sponsors
+                  weight: 50
+                - identifier: code_of_conduct
+                  pageRef: /code-of-conduct
+                  weight: 60
+                - identifier: archive
+                  pageRef: /archive
+                  weight: 70
+            footer:
+                # - identifier: imprint
+                #   pageRef: /imprint
+                #   weight: 10
+                - identifier: privacy
+                  pageRef: /privacy-policy
+                  weight: 10
+            secondary:
+                - identifier: about
+                  pageRef: /about
+                  weight: 10
+                  params:
+                      description: |
+                          Learn more about our mission, values, and the people behind our organization.
+                          The "About Us" page provides insights into who we are, what we do,
+                          and why we’re passionate about our work.
+                - identifier: speakers
+                  pageRef: /speakers
+                  weight: 30
+                  params:
+                      description: |
+                          Meet our distinguished speakers who will be sharing their expertise.
+                          Learn more about their backgrounds and what they will discuss.
+                - identifier: location
+                  pageRef: /location
+                  weight: 40
+                  params:
+                      description: |
+                          Find out where the event will take place.
+                          This section provides details on the venue, directions, and nearby accommodations.
+                - identifier: code_of_conduct
+                  pageRef: /code-of-conduct
+                  weight: 60
+                  params:
+                      description: |
+                          Read about the code of conduct for our event.
+                          This section outlines the expectations for participant behavior and event policies.
+        params:
+            # Open Graph / X (Twitter) Cards
+            description: |
+                Where Singapore's cyber community thrives and everyone is welcome!
+            themes:
+                event:
+                    slogan: BSidesSG is an open, grassroots security community welcoming everyone.
+                    location: Singapore
+                    description: |
+                        After a hiatus, BSidesSG is back! 
+                        
+                        We are excited to announce the 7th edition of BSides Singapore, a community-driven conference focused on deep, technical understanding of topics related to information security.
+
+                        We will be starting our Call for Speakers and Call for Workshops soon, so watch this space!
+                    directions: |
+                        #### By Public Transportation
+                        To be advised.
+
+                        #### By Car:
+                        To be advised.
+                    aboutUs: |
+                        ### Mission
+                        At BSides Singapore, we create opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. BSides Singapore is a community-driven conference focused on deep, technical understanding of topics related to information security. It is where conversations for the next-big-thing are happening.
+
+                        BSides Singapore debuted in 2019 and held its 6th edition in 2024. Every edition welcomed around 150-200 participants from both the local and international security community. Feedback from participants and sponsors was overwhelmingly positive, and we have kept that trust at the centre of how we plan each edition since. We deliberately retain the focused, single-track format because it keeps the technical bar high: every participant sees every talk, and every sponsor is visible to the entire room.
+
+                        BSides Singapore Security Conference is now organized by BSides SIN Pte. Ltd.
+                    callToActionSecondary:
+                      label: Become a Speaker!
+                    callToActionTertiary:
+                      label: Volunteer with Us!
+
+params:
+    # Open Graph / X (Twitter) Cards
+    images:
+        - logos/bsidessg-logo.png
+    themes:
+        event:
+            # sessionizeId: 67poir7q
+            title: BSides Security Conference
+            shortTitle: BSidesSG
+            #startDate: 2027-01-30
+            #endDate: 2027-01-30
+            address:
+                - Singapore
+            map:
+                # embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
+                # viewLargerMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977
+                # Link to edit the map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1105977:HjtVVnbwCn6Yi3O02DTPnspzuyoHvP_Kn-M9rE53eE8
+            # callToAction:
+            #     eventbrite:
+            #         eventId: 976108886957
+            callToAction:
+                other:
+                    url: https://rsvpify.com
+            callToActionSecondary:
+                url: https://happalo.com/
+            callToActionTertiary:
+                url: 'mailto:info@bsidessg.org?subject=Volunteering%20Inquiry%20-%20BSides%20Singapore'
+            socialLinks:
+                companyUrl: https://bsidessg.org/
+                xUrl: https://twitter.com/BSidesSG
+                facebookUrl: https://www.facebook.com/BSidesSG/
+                linkedinUrl: https://www.linkedin.com/company/bsidessg/
+            images:
+                logo: logos/bsidessg-logo.png
+                # titleBackground: images/pexels-caleboquendo-3023317.webp
+                titleBackground: images/badges.webp
+                location: images/mbs_sg.webp
+            sponsors:
+                - logo: logos/sponsor-placeholder.svg
+                  url: 'mailto:info@bsidessg.org?subject=Sponsorship%20Inquiry%20-%20BSides%20Singapore'
+                  name: 'Join us a sponsor'
+            partners:
+                - logo: logos/happalo.webp
+                  url: https://happalo.com
+                  name: happalo
+                - logo: logos/partner-placeholder.svg
+                  url: 'mailto:info@bsidessg.org?subject=Partners%20Inquiry%20-%20BSides%20Singapore'
+                  name: 'Join us a partner'
+            organizers:
+                - org-1
+                - org-2
+                - org-3
+                - org-4
+            advisors:
+                - adv-1
+            featuredSessions:
+                - '729572'
+                - '729576'
+                - '729579'
+            colors:
+                primaryLighter: '#F66B74'
+                primary: '#EF3340'
+                primaryDarker: '#9E1B23'
+                track: '#22D3EE'
+            redirectBasedOnBrowserLang: true

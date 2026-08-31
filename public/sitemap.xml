@@ -2,54 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/call-for-organizers/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/coc/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/bsidessg2024/</loc>
+    <loc>//localhost:1313/archive/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bsidessg/</loc>
+    <loc>//localhost:1313/archive/bsidessg2024/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/conference/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cyber/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archive/bsidessg2023/</loc>
+    <loc>//localhost:1313/archive/bsidessg2023/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/bsidessg2022/</loc>
+    <loc>//localhost:1313/archive/bsidessg2022/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/bsidessg2021/</loc>
+    <loc>//localhost:1313/archive/bsidessg2021/</loc>
     <lastmod>2021-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/bsidessg2020/</loc>
+    <loc>//localhost:1313/archive/bsidessg2020/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/bsidessg2019/</loc>
+    <loc>//localhost:1313/archive/bsidessg2019/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/code-of-conduct.de/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/code-of-conduct/</loc>
+  </url><url>
+    <loc>//localhost:1313/privacy-policy.de/</loc>
+  </url><url>
+    <loc>//localhost:1313/privacy-policy/</loc>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/speakers/indrajeet-bhuyan-org-3/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//localhost:1313/speakers/lee-cheng-wei-org-4/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//localhost:1313/location/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//localhost:1313/speakers/salimah-liyakkathali-org-1/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//localhost:1313/speakers/sanoop-thomas-adv-1/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//localhost:1313/speakers/%C5%A1%C3%A1rka-peka%C5%99ov%C3%A1-org-2/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//localhost:1313/sessions/</loc>
+  </url><url>
+    <loc>//localhost:1313/speakers/</loc>
+  </url><url>
+    <loc>//localhost:1313/sponsors/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
